@@ -6,8 +6,10 @@
   "dependencies": {
     "react": "^16.3.2",
     "react-d3-basic": "^1.6.11",
+    "react-d3-cloud": "^0.6.0",
     "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "react-tag-cloud": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
