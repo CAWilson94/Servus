@@ -5,6 +5,7 @@
   "homepage": "https://cawilson94.github.io/Servus.io/",
   "dependencies": {
     "react": "^16.3.2",
+    "react-d3-basic": "^1.6.11",
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4"
   },
