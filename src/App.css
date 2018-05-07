@@ -7,6 +7,10 @@
   height: 80px;
 }
 
+.webdev-photo {
+  zoom: 25%;
+}
+
 .App-header {
   background-color: #222;
   height: 150px;
@@ -27,15 +31,8 @@
   to { transform: rotate(360deg); }
 }
 
-.words {
-  position: fixed;
-  right: 350px;
-  left: 350px;
-  bottom: 300px;
-  top:200px;
-  margin-bottom: 800px;
-}
 
-.g{
-  transform: translate(500, 0);
+
+.words g {
+  transform: translate(500, 0) !important;
 }

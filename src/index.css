@@ -4,11 +4,6 @@ body {
   font-family: sans-serif;
 }
 
-
-svg {
-  float:left;
-}
-
-svg.g{
-  transform: translate(500, 0);
+.words g {
+  transform: translate(500, 0) !important;
 }
