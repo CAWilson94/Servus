@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.charts {
+  position: fixed;
+  align-self: center;
+}
+
+.Chart-component {
+  padding-left: 50px;
+}
+
+
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
@@ -35,4 +46,9 @@
 
 .words g {
   transform: translate(500, 0) !important;
+}
+
+
+.Chart-component {
+  padding-top: 20px;
 }
